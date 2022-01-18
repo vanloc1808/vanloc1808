@@ -45,8 +45,11 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assembly3&logoColor=1572B6)
 
 **IDE/Text Editors:**
-![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![RS](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+
+![GHActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal)
 ![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808)
