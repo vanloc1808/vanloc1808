@@ -20,7 +20,7 @@
 
 </div>
 
-**Technologies I learned/am learning:**
+**Technologies and Languages:**
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
