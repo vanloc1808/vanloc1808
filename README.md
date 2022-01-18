@@ -45,7 +45,8 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assembly3&logoColor=1572B6)
 
 **IDE/Text Editors:**
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal)
 ![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808)
