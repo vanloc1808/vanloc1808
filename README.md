@@ -54,10 +54,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-taffarel55.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/12148677565)
-
 <!--
 ### Recent Github Activity :timer_clock:
 
@@ -66,5 +62,5 @@ START_SECTION:activity-->
 <br>
 
 <h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+	⬇ Check my pinned projects and leave a ⭐️ ⬇
 </h3>
