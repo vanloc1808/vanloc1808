@@ -65,22 +65,6 @@
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808)
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile?fbclid=IwAR3W7uuMfKgp3bt9qqbhB-a_srse2Pf-xaOk4GJfoo98KQuugN6YBcLj8BY#-languages-
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=ec2025)
-![Pascal](https://img.shields.io/badge/-Pascal-000000?style=flat&logo=delphi)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
-![VHDL](https://img.shields.io/badge/-VHDL-000000?style=flat&logo=vhdl)
-![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog)
-![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
-
 -->
 
 <!--
