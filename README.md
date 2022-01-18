@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanloc1808/)
 [![Instagram](https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanloc1808/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vanlocO19180802/)	
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/user/prk7aommz21c5283l5c6km10r)
 ---
 
 </center>
@@ -48,6 +47,7 @@
 **IDE/Text Editors:**
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
+![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal)
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile?fbclid=IwAR3W7uuMfKgp3bt9qqbhB-a_srse2Pf-xaOk4GJfoo98KQuugN6YBcLj8BY#-languages-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
