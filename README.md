@@ -2,9 +2,7 @@
 
 <div>
 
-<img align='right' height='160' src='assets/certificate.svg' alt='Mudar imagem'>
-<!-- https://undraw.co/illustrations -->
-<!-- https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png -->
+
 
 - :mortar_board: Undergraduate student in Information Technology at the University of Science, VNUHCM.
 - :computer: Amauter competitve programmer.
