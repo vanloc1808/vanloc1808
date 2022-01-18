@@ -48,6 +48,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal)
+![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808)
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile?fbclid=IwAR3W7uuMfKgp3bt9qqbhB-a_srse2Pf-xaOk4GJfoo98KQuugN6YBcLj8BY#-languages-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
