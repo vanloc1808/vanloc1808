@@ -30,12 +30,13 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![R](https://img.shields.io/badge/-R-000?&logo=r&logoColor=1572B6)
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assembly3&logoColor=1572B6)
+![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assembly3&logoColor=1572B6)
 
 **IDE/Text Editors:**
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
