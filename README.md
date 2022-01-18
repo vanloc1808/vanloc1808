@@ -8,19 +8,20 @@
 - :computer: Amauter competitve programmer.
 - :blue_book: Begin to learn Data Sciences.
 - :mailbox: You can reach me with the links below
-![view](https://komarev.com/ghpvc/?username=vanloc1808&label=Profile%20views&color=0e75b6&style=flat)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vanloc1808&theme=buddhism&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <center>
 
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/MwZFxK1o)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanloc1808/)
 [![Instagram](https://img.shields.io/badge/insta-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanloc1808/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vanlocO19180802/)	
 ---
 
 </center>
+	
+![view](https://komarev.com/ghpvc/?username=vanloc1808&label=Profile%20views&color=0e75b6&style=flat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanloc1808&theme=buddhism&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -33,9 +34,11 @@
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![R](https://img.shields.io/badge/-R-000?&logo=r&logoColor=1572B6)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assembly3&logoColor=1572B6)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
+
+**IDE/Text Editors:**
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 
 <!--
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
