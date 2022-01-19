@@ -65,7 +65,7 @@
 ![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal) 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808)
 ![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808)   
- ![Streak](![Lang](https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808)
+![Streak](![Lang](https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808)
 <!--
 https://github.com/alexandresanlim/Badges4-README.md-Profile?fbclid=IwAR3W7uuMfKgp3bt9qqbhB-a_srse2Pf-xaOk4GJfoo98KQuugN6YBcLj8BY#-languages-
 -->
