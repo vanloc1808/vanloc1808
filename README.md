@@ -6,9 +6,10 @@
 
 - :mortar_board: Undergraduate student in Information Technology at the University of Science, VNUHCM.
 - :computer: Amauter competitve programmer.
-- :blue_book: Begin to learn Data Sciences.
-- :mailbox: You can reach me with the links below
+- :blue_book: Begin to learn Data Sciences.  
 
+## Contact me :mailbox:
+	
 <center>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/MwZFxK1o)
