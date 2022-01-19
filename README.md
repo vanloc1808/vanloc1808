@@ -8,6 +8,8 @@
 - :computer: Amauter competitve programmer.
 - :blue_book: Begin to learn Data Sciences.
 - :mailbox: You can reach me with the links below
+	
+<div>
 
 <center>
 ---
