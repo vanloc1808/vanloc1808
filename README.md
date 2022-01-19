@@ -9,6 +9,10 @@
 - :blue_book: Begin to learn Data Sciences.
 - :mailbox: You can reach me with the links below
 
+<!--	
+![view](https://komarev.com/ghpvc/?username=vanloc1808&label=Profile%20views&color=0e75b6&style=flat)
+-->
+
 <center>
 ---
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/MwZFxK1o)
