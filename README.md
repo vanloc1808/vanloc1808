@@ -1,7 +1,12 @@
 <h1 align="center">Greetings!!! I'm Nguyen Van Loc </h1>
 
 <div>
+<center>
+---
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/MwZFxK1o)
+---
 
+</center>	
 
 
 - :mortar_board: Undergraduate student in Information Technology at the University of Science, VNUHCM.
