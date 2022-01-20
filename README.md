@@ -28,7 +28,8 @@
 <!--	
 ![view](https://komarev.com/ghpvc/?username=vanloc1808&label=Profile%20views&color=0e75b6&style=flat)
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=vanloc1808&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vanloc1808&theme=buddhism&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
