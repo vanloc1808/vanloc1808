@@ -63,10 +63,10 @@
 ![RS](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ![GHActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![Stats1](https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg)
-![Stats2](https://github.com/vanloc1808/github-stats/blob/master/generated/languages.svg)
 
 ![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal) 
+![Stats1](https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg)
+![Stats2](https://github.com/vanloc1808/github-stats/blob/master/generated/languages.svg)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808)
 ![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808)   
 ![Streak](![Lang](https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808)
