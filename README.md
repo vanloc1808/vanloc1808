@@ -1,4 +1,4 @@
-<h1 align="center">Greetings!!! I'm Nguyen Van Loc </h1>
+<h1 align="center">Greetings!!! I am Nguyen Van Loc </h1>
 
 <div>
 
