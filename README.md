@@ -1,4 +1,4 @@
-<h1 align="center">Sayounara!!! My name is Nguyen Van Loc (Nguyễn Văn Lộc) </h1>
+<h1 align="center">Greetings!!! My name is Nguyen Van Loc (Nguyễn Văn Lộc) </h1>
 
 <div>
 
