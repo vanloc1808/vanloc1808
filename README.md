@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my personal profile!!! My name is Nguyen Van Loc (Nguyễn Văn Lộc) </h1>
+<h1 align="center">Welcome to my personal profile!!! My name is Nguyen Van Loc (Nguyễn Văn Lộc in Vietnamese) </h1>
 
 <div>
 
