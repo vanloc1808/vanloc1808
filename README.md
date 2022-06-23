@@ -8,7 +8,7 @@
 - :computer: Amauter competitve programmer.
 - :blue_book: Begin to learn Data Sciences.  
   
-[My CV here](https://github.com/vanloc1808/My-CV/blob/main/IIT-madras-resume-template-(2-page)/main.pdf)
+[View my CV here](https://github.com/vanloc1808/My-CV/blob/main/IIT-madras-resume-template-(2-page)/main.pdf)
 
 ## Contact me :mailbox:  
 	
