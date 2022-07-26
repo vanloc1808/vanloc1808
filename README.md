@@ -71,7 +71,9 @@
 
 ![GHActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
-![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal) 
+<!--
+![Graph](https://activity-graph.herokuapp.com/graph?username=vanloc1808&theme=minimal)
+-->
 ![Stats1](https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg)
 ![Stats2](https://github.com/vanloc1808/github-stats/blob/master/generated/languages.svg)
 ![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)   
