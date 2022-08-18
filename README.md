@@ -4,9 +4,12 @@
 
 
 
-- :mortar_board: Undergraduate student in Information Technology at the University of Science, VNUHCM.
+- :mortar_board: Third-year student in Information Technology at the University of Science, VNUHCM.
+<!--
 - :computer: Amauter competitve programmer.
-- :blue_book: Begin to learn Data Sciences.  
+-->
+
+- :blue_book: Data Science  
   
 [View my CV here](https://github.com/vanloc1808/My-CV/blob/main/IIT-madras-resume-template-(2-page)/main.pdf)
 
