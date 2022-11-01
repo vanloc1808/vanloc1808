@@ -11,7 +11,7 @@
 
 - :blue_book: Data Science  
   
-[View my CV here](https://github.com/vanloc1808/My-CV/blob/main/IIT-madras-resume-template-(2-page)/main.pdf)
+[View my CV here](https://drive.google.com/file/d/1Ds2oupMKs_7zzvmRJnEqtfFZjwg8TtNs/view?usp=sharing)
 
 ## Contact me :mailbox:  
 	
