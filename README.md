@@ -11,7 +11,7 @@
 
 - :blue_book: Data Science  
   
-[View my CV here](https://drive.google.com/file/d/1Ds2oupMKs_7zzvmRJnEqtfFZjwg8TtNs/view?usp=sharing)
+[View my CV here](https://drive.google.com/file/d/1KjS_aURYiwnV3Zp88ltF5hrDt7FuJTt3/view?usp=sharing)
 
 ## Contact me :mailbox:  
 	
