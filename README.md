@@ -82,7 +82,10 @@
 -->
 ![Stats1](https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg)
 ![Stats2](https://github.com/vanloc1808/github-stats/blob/master/generated/languages.svg)
-<p align="center">![Stats](https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight) </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Stats">
+</p>
+
 
 <!--
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808&theme=tokyonight)
