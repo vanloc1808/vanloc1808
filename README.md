@@ -10,8 +10,9 @@
 -->
 
 - :blue_book: Data Science  
+- :blue_book: Software Engineering 
   
-[View my CV here](https://drive.google.com/file/d/1KjS_aURYiwnV3Zp88ltF5hrDt7FuJTt3/view?usp=sharing)
+[View my CV here](https://drive.google.com/file/d/12SedLupPwMGW_jodD8Soffa8GJ8o45_Z/view?usp=sharing)
 
 ## Contact me :mailbox:  
 	
