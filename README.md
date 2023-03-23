@@ -104,6 +104,8 @@ START_SECTION:activity-->
 
 <br>
 
+![footer](https://capsule-render.vercel.app/api?type=wave&&&&color=0:ff66cc,100:3399ff&height=130&section=footer)
+
 <h3 align="center">
 	⬇ Check my pinned projects and leave a ⭐️ ⬇
 </h3>
