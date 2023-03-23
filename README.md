@@ -83,7 +83,6 @@
 -->
 <p align="center">
   <img src="https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg" alt="Stats1" style="display:inline-block;">
-  <img src="https://github.com/vanloc1808/github-stats/blob/master/generated/languages.svg" alt="Stats2" style="display:inline-block;">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Stats">
