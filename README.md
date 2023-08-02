@@ -12,7 +12,7 @@
 - :blue_book: Data Science  
 - :blue_book: Software Engineering 
   
-[View my CV here](https://drive.google.com/file/d/12SedLupPwMGW_jodD8Soffa8GJ8o45_Z/view?usp=sharing)
+[View my CV here](https://drive.google.com/file/d/1y1pZ9hamM3hO6gMTJH6mEtGJgTSAUCn6/view)
 
 ## Contact me :mailbox:  
 	
