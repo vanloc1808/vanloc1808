@@ -4,7 +4,8 @@
 
 
 
-- :mortar_board: Third-year student in Information Technology at the University of Science, VNUHCM.
+- :mortar_board: Fourth-year student in Information Technology at the University of Science, VNUHCM.
+- :mortar_board: Python Developer at Saritasa Vietnam
 <!--
 - :computer: Amauter competitve programmer.
 -->
