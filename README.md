@@ -5,12 +5,9 @@
 
 
 - :mortar_board: Fourth-year student in Information Technology at the University of Science, VNUHCM.
-- :mortar_board: Python Developer at Saritasa Vietnam
-<!--
-- :computer: Amauter competitve programmer.
--->
+- :computer: Python Developer at Saritasa Vietnam
 
-- :blue_book: Data Science  
+- :blue_book: AI 
 - :blue_book: Software Engineering 
   
 [View my CV here](https://drive.google.com/file/d/1y1pZ9hamM3hO6gMTJH6mEtGJgTSAUCn6/view)
