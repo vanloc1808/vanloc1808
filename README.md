@@ -83,8 +83,8 @@
   <img src="https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg" alt="Stats1" style="display:inline-block;">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Stats">
-	![](https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808h&theme=synthwave&hide_border=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Stats">  
+  <img src="github-readme-streak-stats.herokuapp.com/?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Stats">  
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" width="600px"/> </p>
