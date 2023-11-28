@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Welcome to my profile!!! My name is Nguyen Van Loc (Nguyễn Văn Lộc in Vietnamese) </h1>
+<h1 align="center">Nguyễn Văn Lộc/Van-Loc Nguyen/阮文禄 </h1>
 
 <div>
 
