@@ -107,6 +107,9 @@ START_SECTION:activity-->
 
 <br>
 
+## ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&&&&color=0:ff66cc,100:3399ff&height=130&section=footer)
 
 <h3 align="center">
