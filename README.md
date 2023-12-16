@@ -90,7 +90,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808&theme=synthwave&hide_border=false" alt="Stats">  
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" width="600px"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanloc1808&hide_progress=false&layout=compact&theme=material-palenight&langs_count=10&card_width=445" alt="Language Stats" width="600px"/> </p>
 
 
 <!--
