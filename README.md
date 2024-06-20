@@ -4,7 +4,7 @@
 
 
 
-- :mortar_board: Fourth-year student in Information Technology at the University of Science, VNUHCM.
+- :mortar_board: Senior Computer Science Student, Honorable Program at the University of Science, VNUHCM.
 - :computer: Python Developer at Saritasa Vietnam
 
 - :blue_book: AI 
