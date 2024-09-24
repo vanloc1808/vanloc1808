@@ -10,7 +10,7 @@
 - :blue_book: AI 
 - :blue_book: Software Engineering 
   
-[View my CV here](https://drive.google.com/file/d/1y1pZ9hamM3hO6gMTJH6mEtGJgTSAUCn6/view)
+[View my CV here](https://nguyenvanloc.name.vn/CV.pdf)
 
 ## Contact me :mailbox:  
 	
