@@ -28,7 +28,9 @@
 <p align="center">
   <img src="https://github.com/vanloc1808/github-stats/blob/master/generated/overview.svg" alt="Stats1" style="display:inline-block;">
 
+<!--
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vanloc1808&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+-->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808&theme=synthwave&hide_border=false" alt="Stats">  
