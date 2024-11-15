@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vanloc1808&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Stats">  
 
 </p> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vanloc1808&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanloc1808&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanloc1808&theme=synthwave&hide_border=false" alt="Stats">  
 </p> -->
