@@ -4,8 +4,8 @@
 
 
 
-- :mortar_board: Senior Computer Science Student, Honorable Program at the University of Science, VNUHCM.
-- :computer: Python Developer at Saritasa Vietnam
+- :mortar_board: Graduate Student in Artificial Intelligence at the University of Science, VNUHCM.
+- :computer: AI Engineer at somewhere on the Earth.
 
 - :blue_book: AI 
 - :blue_book: Software Engineering 
