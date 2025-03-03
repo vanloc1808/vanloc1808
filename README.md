@@ -7,8 +7,10 @@
 - :mortar_board: Graduate Student in Artificial Intelligence at the University of Science, VNUHCM.
 - :computer: AI Engineer somewhere on Earth.
 
-- :blue_book: AI 
+- :blue_book: AI
+<!--
 - :blue_book: Software Engineering 
+-->
   
 [View my CV here](https://nguyenvanloc.com/CV.pdf)
 
