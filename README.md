@@ -5,7 +5,7 @@
 
 
 - :mortar_board: Graduate Student in Artificial Intelligence at the University of Science, VNUHCM.
-- :computer: AI Engineer at somewhere on the Earth.
+- :computer: AI Engineer somewhere on Earth.
 
 - :blue_book: AI 
 - :blue_book: Software Engineering 
