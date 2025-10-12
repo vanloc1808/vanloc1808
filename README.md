@@ -1,4 +1,4 @@
-<h1 align="center">Nguyễn Văn Lộc/Van-Loc Nguyen/阮文禄 </h1>
+<h1 align="center">Nguyễn Văn Lộc/Van-Loc Nguyen/阮文禄/グエン・ヴァン・ロック </h1>
 
 <div>
 
