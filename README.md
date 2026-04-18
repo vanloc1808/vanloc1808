@@ -5,7 +5,7 @@
 
 
 - :mortar_board: Graduate Student in Artificial Intelligence at the University of Science, VNUHCM.
-- :computer: Research Intern at National Institute of Informatics, Japan.
+- :computer: Former Student Researcher at National Institute of Informatics, Japan.
 
 - :blue_book: AI
 <!--
